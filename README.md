@@ -1,4 +1,3 @@
-- 👋 Hi, I’m YZ.
 - 🌓 Interested in congnitive neuroscience.
 - 🥛 Currently learning computer science and psychology.
 - 🏐 A super fan of the animation Haikyu!!.
